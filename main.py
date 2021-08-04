@@ -177,7 +177,7 @@ def add_collision(pipes):
     for each_pipe in pipes:
         if bird_rect.colliderect(each_pipe):
             return False
-        elif bird_rect.centery >= 420 and bird_rect.centery <= 421:
+        elif bird_rect.centery >= 420:
             return False
     return True
 
