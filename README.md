@@ -15,6 +15,4 @@ I made the  Legendary "Flappy Bird" game using the pygame module Python
 
 ## `Screenshots`
 
-<img src="https://i.postimg.cc/13gMMSW9/first-1.png" alt="">
-<img src="https://i.postimg.cc/j58JGw5B/second-one.png" alt="">
-<img src="https://i.postimg.cc/YC1Lty06/third-0ne.png" alt="">
+<img src="https://i.postimg.cc/13gMMSW9/first-1.png" alt=""> <img src="https://i.postimg.cc/j58JGw5B/second-one.png" alt=""> <img src="https://i.postimg.cc/YC1Lty06/third-0ne.png" alt="">
